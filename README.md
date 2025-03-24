@@ -28,7 +28,7 @@ My personal portfolio and GitHub profile README
 
 ## 🔬 Notable Projects
 
-### 📡 [UniControl](https://github.com/your-unicontrol-link)  
+### 📡 [UniControl](https://github.com/Mapsbhatt/UniControl)  
 *Gyroscope and pressure-sensor-based controller for diplegic patients.*
 
 - Head-motion + foot pressure fusion for interaction  
@@ -37,7 +37,7 @@ My personal portfolio and GitHub profile README
 
 ---
 
-### 😴 [RestAware](https://github.com/your-restaware-link)  
+### 😴 [RestAware](https://github.com/Mapsbhatt/RestAware)  
 *Wearable wireless eye-tracking glasses to detect and prevent drowsiness.*
 
 - Blink duration, nod intervals tracking  
@@ -45,7 +45,7 @@ My personal portfolio and GitHub profile README
 
 ---
 
-### 🧠 [On-Ear OS (Bionode Enhancement)](https://github.com/your-bionode-link)  
+### 🧠 [On-Ear OS (Bionode Enhancement)]  
 *Next-gen in-ear health monitoring system*
 
 - Multimodal sensing: ECG, EEG, IMU, Temperature  
@@ -53,7 +53,7 @@ My personal portfolio and GitHub profile README
 
 ---
 
-### 🧪 [Spatial Activity Mapping in NMJ](https://github.com/your-nmj-link)  
+### 🧪 [Spatial Activity Mapping in NMJ](https://github.com/AleAsca/Histology-NMJ-and-muscle-Activity-Toolbox)  
 *3D overlay of EMG heatmaps with histology-reconstructed NMJs*
 
 - Inverse-distance model for NMJ signal contribution  
@@ -61,7 +61,7 @@ My personal portfolio and GitHub profile README
 
 ---
 
-### 🧬 [EnigmaNet](https://github.com/your-enigmanet-link)  
+### 🧬 [EnigmaNet](https://ieeexplore.ieee.org/document/10580897)  
 *Attention-enhanced segmentation for ischemic stroke detection in MRIs*
 
 - Dual attention gates, optimized loss  
@@ -69,7 +69,7 @@ My personal portfolio and GitHub profile README
 
 ---
 
-### 🧫 [LiverLens3+](https://github.com/your-liverlens3-link)  
+### 🧫 [LiverLens3+](https://github.com/Mapsbhatt/LiverLens3plus)  
 *Advanced HCC detection via MRI using Multi-Attention U-Net3+*
 
 - Achieved Dice of 0.863 for tumors and 0.995 for liver  
@@ -77,7 +77,7 @@ My personal portfolio and GitHub profile README
 
 ---
 
-### ⚙️ [Intel OpenVINO Benchmarking](https://github.com/your-openvino-link)  
+### ⚙️ [Intel OpenVINO Benchmarking](https://github.com/Mapsbhatt/Social_Distancing_Intel)  
 *Benchmarked OpenCV vs OpenVINO for model deployment*
 
 - Optimized GPU/CPU usage and inference speed  
