@@ -77,30 +77,6 @@ My personal portfolio and GitHub profile README
 
 ---
 
-### 🧵 [From Pixels to Prediction](https://github.com/your-skin-cancer-link)  
-*Lightweight dual-attention MobileNetV2 for Skin Cancer Detection*
-
-- 3.63MB model with high accuracy (98.85%)  
-- Presented at ICCMEH 2023 and under Q1 Scopus review  
-
----
-
-### 🦴 [OsteoX](https://github.com/your-osteoarthritis-link)  
-*X-ray classification and grading of Knee Osteoarthritis*
-
-- Multi-class classifier with loss-balancing  
-- Accepted at ICRASE 2023  
-
----
-
-### 🧬 [BreastSlidePrep](https://github.com/your-breastcancer-link)  
-*Advanced preprocessing for breast cancer whole-slide images*
-
-- Stain normalization, separation, and nuclei-based segmentation  
-- Cell counting and diagnostic accuracy improvements  
-
----
-
 ### ⚙️ [Intel OpenVINO Benchmarking](https://github.com/your-openvino-link)  
 *Benchmarked OpenCV vs OpenVINO for model deployment*
 
