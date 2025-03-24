@@ -45,7 +45,7 @@ My personal portfolio and GitHub profile README
 
 ---
 
-### 🧠 [On-Ear OS (Bionode Enhancement)]  
+### 🧠 On-Ear OS (Bionode Enhancement)
 *Next-gen in-ear health monitoring system*
 
 - Multimodal sensing: ECG, EEG, IMU, Temperature  
@@ -85,7 +85,7 @@ My personal portfolio and GitHub profile README
 
 ---
 
-### 🔧 [HiL System for Infusion Pumps]
+### 🔧 HiL System for Infusion Pumps
 *Hardware-in-the-Loop testing setup for medication delivery systems*
 
 - Simulated device behavior for software testing  
@@ -111,7 +111,7 @@ My personal portfolio and GitHub profile README
 
 ## 📫 Contact
 📧 mapsbhatt.mb@gmail.com | 📞 +1 (410) 240-4640  
-[LinkedIn](https://www.linkedin.com/in/your-link) | [Google Scholar](https://scholar.google.com/your-profile)
+[LinkedIn](https://www.linkedin.com/in/manan-bhatt-92a651232/)
 
 ---
 
