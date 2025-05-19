@@ -54,6 +54,18 @@ My personal portfolio and GitHub profile README
 
 ---
 
+### 😴 [Exploratory Calcium Imaging Analysis](https://github.com/Mapsbhatt/Calcium-Imaging-Analysis)  
+
+The goal was to implement a full pipeline for analyzing calcium imaging data, including:
+- Motion correction
+- Summary image computation
+- ROI detection
+- Time-trace extraction
+- Matrix factorization (PCA, NMF, ICA)
+
+
+---
+
 ### 🧠 On-Ear OS (Bionode Enhancement)
 *Next-gen in-ear health monitoring system*
 
