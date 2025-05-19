@@ -45,6 +45,15 @@ My personal portfolio and GitHub profile README
 
 ---
 
+### 📡 [Charge-Balanced Biphasic Stimulation for STN-GPe Desynchronization in Parkinson’s Disease](https://github.com/Mapsbhatt/Charge-Balanced-Biphasic-Stimulation-for-STN-GPe-Desynchronization-in-Parkinson-s-Disease)  
+*MATLAB SIMULATION*
+
+- Simulated STN and GPe neurons using Hodgkin-Huxley models and constructed synaptic networks modeling excitatory/inhibitory dynamics.
+- Designed and tested charge-balanced biphasic stimulation protocols to break beta-band synchrony in STN-GPe loop, addressing pathological oscillations in Parkinsonian models.
+- Developed simultaneous recording-stimulation workflows for real-time feedback stimulation control.
+
+---
+
 ### 🧠 On-Ear OS (Bionode Enhancement)
 *Next-gen in-ear health monitoring system*
 
